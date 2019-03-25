@@ -1,0 +1,19 @@
+{
+  "name": "angular_week_fernandes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pokemon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cromade/angular_week_fernandes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cromade/angular_week_fernandes/issues"
+  },
+  "homepage": "https://github.com/Cromade/angular_week_fernandes#readme"
+}
