@@ -4,7 +4,8 @@
   "description": "",
   "main": "pokemon.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest",
+    "buildAndRun": "tsc ./pokemon.ts & node ./pokemon.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Cromade/angular_week_fernandes/issues"
   },
-  "homepage": "https://github.com/Cromade/angular_week_fernandes#readme"
+  "homepage": "https://github.com/Cromade/angular_week_fernandes#readme",
+  "devDependencies": {
+    "jest": "^24.5.0"
+  }
 }
